@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Jenisha Nagane",
+    "email": "jenisha.nagane@example.com",
+    "phone": "9600145246",
+    "country": "India"
+  },
+  {
+    "name": "Germaine Francois",
+    "email": "germaine.francois@example.com",
+    "phone": "077 838 20 49",
+    "country": "Switzerland"
+  },
+  {
+    "name": "Claudia Lewis",
+    "email": "claudia.lewis@example.com",
+    "phone": "05-8081-6957",
+    "country": "Australia"
+  },
+  {
+    "name": "Milana Rahimi",
+    "email": "milana.rahimi@example.com",
+    "phone": "65625443",
+    "country": "Norway"
+  },
+  {
+    "name": "Jennifer West",
+    "email": "jennifer.west@example.com",
+    "phone": "015395 21473",
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Sigrid Sundstr\u00f8m",
+    "email": "sigrid.sundstrom@example.com",
+    "phone": "69739727",
+    "country": "Norway"
+  },
+  {
+    "name": "Violet King",
+    "email": "violet.king@example.com",
+    "phone": "(901)-156-7085",
+    "country": "New Zealand"
+  },
+  {
+    "name": "Irene Crespo",
+    "email": "irene.crespo@example.com",
+    "phone": "933-679-459",
+    "country": "Spain"
+  },
+  {
+    "name": "Ceylan Y\u0131ld\u0131zo\u011flu",
+    "email": "ceylan.yildizoglu@example.com",
+    "phone": "(329)-082-2200",
+    "country": "Turkey"
+  },
+  {
+    "name": "Randi Mazur",
+    "email": "randi.mazur@example.com",
+    "phone": "88902385",
+    "country": "Norway"
+  }
+]

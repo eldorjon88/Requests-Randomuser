@@ -1,0 +1,12 @@
+{
+  "first_name": "G\u00fclten",
+  "last_name": "Siebert",
+  "gender": "female",
+  "email": "gulten.siebert@example.com",
+  "phone": "0874-4109800",
+  "address": {
+    "street": "Mozartstra\u00dfe",
+    "city": "Waiblingen",
+    "country": "Germany"
+  }
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Reinhard Volkert",
+    "birth_year": 1995,
+    "email": "reinhard.volkert@example.com"
+  },
+  {
+    "name": "Jessie Sims",
+    "birth_year": 1997,
+    "email": "jessie.sims@example.com"
+  },
+  {
+    "name": "Luisa Gonz\u00e1lez",
+    "birth_year": 1991,
+    "email": "luisa.gonzalez@example.com"
+  },
+  {
+    "name": "\u00dcmit Do\u011fan",
+    "birth_year": 1993,
+    "email": "umit.dogan@example.com"
+  },
+  {
+    "name": "Elmano Rocha",
+    "birth_year": 1996,
+    "email": "elmano.rocha@example.com"
+  }
+]
